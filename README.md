@@ -24,6 +24,7 @@
 
 #
 
+<h3 align="left">My Stack: </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash" width="30"/>
   <img width="8" />
