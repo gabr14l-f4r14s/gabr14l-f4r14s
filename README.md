@@ -24,38 +24,38 @@
 #
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="30"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" width="30"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nest" width="30"/>
+  <img src="https://skillicons.dev/icons?i=c" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" width="30"/>
+  <img src="https://skillicons.dev/icons?i=css" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" width="30"/>
+  <img src="https://skillicons.dev/icons?i=debian" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="30"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="30"/>
+  <img src="https://skillicons.dev/icons?i=html" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongo" width="30"/>
+  <img src="https://skillicons.dev/icons?i=java" width="30"/>
   <img width="8" />
 </div>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker" width="30"/>
+    <img src="https://skillicons.dev/icons?i=js" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" width="30"/>
+  <img src="https://skillicons.dev/icons?i=kali" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" width="30"/>
+  <img src="https://skillicons.dev/icons?i=Linux" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jest" width="30"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=windows" width="30"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="30"/>
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" width="30"/>
 </div>
