@@ -24,7 +24,7 @@
 
 #
 
-<img align="right" alt="" height="240px" width="500px" src="gif/gifpc.gif">
+<img align="right" alt="" height="240px" width="480px" src="gif/gifpc.gif">
 
 <h3 align="left">Connect with me!</h3>
 
