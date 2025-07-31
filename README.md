@@ -24,7 +24,7 @@
 #
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/gabr14l-f4r14s/gabr14l-f4r14s/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 Here are some ideas to get you started:
