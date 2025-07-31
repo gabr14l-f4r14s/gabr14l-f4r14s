@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=1F1F1FCF&width=435&lines=(gabriel%40localhost)-%5B~%5D+%E2%94%80%24+whoami;Gabriel+Farias;(gabriel%40localhost)-%5B~%5D+%E2%94%80%24+echo+%22Bem-vindo!%22++;Bem-vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=FFFFFF00&width=435&lines=(gabriel%40localhost)-%5B~%5D+%E2%94%80%24+whoami;Gabriel+Farias;(gabriel%40localhost)-%5B~%5D+%E2%94%80%24+echo+%22Bem-vindo!%22++;Bem-vindo!" alt="Typing SVG" /></a>
 </div>
 <!--
 **gabr14l-f4r14s/gabr14l-f4r14s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
