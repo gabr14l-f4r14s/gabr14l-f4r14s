@@ -4,7 +4,11 @@
 
 #
 
+<p align="center">Sou estudante de Sistemas de Informação, com foco em Segurança da Informação e Desenvolvimento Web. Estou me especializando em Pentest e Red Team, estudando frequentemente ferramentas, técnicas e metodologias de testes de intrusão.
 
+<p align="center">Participo ativamente de CTFs (Capture The Flag) como forma de aprimorar minhas habilidades práticas e desenvolver uma mentalidade ofensiva alinhada às necessidades do mercado. Além disso, busco me manter atualizado com as novas tecnologias e tendências da área, com o objetivo de me tornar um profissional completo e preparado para os desafios do setor de segurança cibernética.
+
+#
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
