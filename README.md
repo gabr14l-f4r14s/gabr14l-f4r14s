@@ -24,6 +24,12 @@
 
 #
 
+<h3 align="left">Connect with me!</h3>
+
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00F6A0)](mailto:thiago.sampaiog@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F6A06&color:FFF)](https://www.linkedin.com/in/thiago-sampaiog/)
+
+
 <h3 align="left">My Stack: </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash" width="30"/>
