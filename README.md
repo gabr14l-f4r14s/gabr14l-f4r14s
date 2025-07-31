@@ -60,6 +60,9 @@
   <img src="https://skillicons.dev/icons?i=py" width="30"/>
 </div>
 
+#
+
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
