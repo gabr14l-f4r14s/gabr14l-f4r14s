@@ -9,6 +9,7 @@
 <p align="center"> Participo ativamente de CTFs (Capture The Flag) como forma de aprimorar minhas habilidades práticas e desenvolver uma mentalidade ofensiva alinhada às necessidades do mercado. Além disso, busco me manter atualizado com as novas tecnologias e tendências da área, com o objetivo de me tornar um profissional completo e preparado para os desafios do setor de segurança cibernética.
 
 #
+
 <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
