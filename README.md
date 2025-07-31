@@ -72,4 +72,9 @@
 
 #
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabr14l-f4r14s/gabr14l-f4r14s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabr14l-f4r14s/gabr14l-f4r14s/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabr14l-f4r14s/gabr14l-f4r14s/output/github-contribution-grid-snake.svg">
+</picture>
 
