@@ -42,6 +42,24 @@
   <img width="8" />
 </div>
 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=docker" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jest" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=windows" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" width="30"/>
+</div>
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
