@@ -1,4 +1,4 @@
-<div style="background-color: #1F1F1F; width: 100%; height: 200px;">
+<div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1500&color=00FF00&background=FFFFFF00&width=435&lines=(gabriel%40PC)-%5B~%5D%24+whoami;Gabriel+Farias;(gabriel%40PC)-%5B~%5D%24+echo+%22Bem-vindo!%22;Bem-vindo!" alt="Typing SVG" /></a>
 </div>
 
