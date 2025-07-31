@@ -24,6 +24,8 @@
 
 #
 
+<img align="right" alt="" height="230px" src="gif/gifpc.gif">
+
 <h3 align="left">Connect with me!</h3>
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00F6A0)](mailto:thiago.sampaiog@gmail.com)
