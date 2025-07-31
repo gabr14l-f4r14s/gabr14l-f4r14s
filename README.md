@@ -9,6 +9,15 @@
 <p align="center"> Participo ativamente de CTFs (Capture The Flag) como forma de aprimorar minhas habilidades práticas e desenvolver uma mentalidade ofensiva alinhada às necessidades do mercado. Além disso, busco me manter atualizado com as novas tecnologias e tendências da área, com o objetivo de me tornar um profissional completo e preparado para os desafios do setor de segurança cibernética.
 
 #
+<div align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagosampaiog&show_icons=true&hide_title=true&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&icon_color=00F6A0" alt="GitHub stats">
+
+  <a href="https://github.com/thiagosampaiog/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=compact&langs_count=6&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less" alt="Top Langs">
+  </a>
+</div>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
