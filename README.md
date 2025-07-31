@@ -12,9 +12,11 @@
 <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
+  <a href="https://github.com/gabr14l-f4r14s">
   <img src="https://github-readme-stats.vercel.app/api?username=gabr14l-f4r14s&show_icons=true&hide_title=true&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&icon_color=00F6A0" alt="GitHub stats">
-
-  <a href="https://github.com/thiagosampaiog/github-readme-stats">
+  </a>
+  
+  <a href="https://github.com/gabr14l-f4r14s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr14l-f4r14s&layout=compact&langs_count=6&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less" alt="Top Langs">
   </a>
 </div>
