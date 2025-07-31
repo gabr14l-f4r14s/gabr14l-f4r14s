@@ -57,7 +57,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=windows" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" width="30"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="30"/>
 </div>
 
 Here are some ideas to get you started:
