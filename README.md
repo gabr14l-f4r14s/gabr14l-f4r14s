@@ -47,7 +47,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=kali" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=Linux" width="30"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=powershell" width="30"/>
   <img width="8" />
