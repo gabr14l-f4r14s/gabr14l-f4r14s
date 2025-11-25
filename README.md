@@ -19,8 +19,6 @@
   
   <a href="https://github.com/gabr14l-f4r14s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr14l-f4r14s&layout=compact&langs_count=6&theme=shadow_green&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO" alt="GitHub stats">
-
   </a>
   
 </div>
